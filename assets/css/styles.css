@@ -1,0 +1,25 @@
+body{
+    font-family: Verdana;
+}
+
+.encabezado{
+    background-color: #051b54;
+}
+
+.tipo_nav{
+    font-family: 'Gill Sans', 'Gill Sans MT';
+}
+
+.boton_login{
+    background-color: #ffffff33; 
+    color: white;
+}
+
+.area_pub{
+    background-color: #62dad3;
+}
+
+.letra{
+    color: #051b54;
+}
+
